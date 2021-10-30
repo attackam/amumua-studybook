@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>快速排序</title>
+</head>
+
+<body>
+  输入：
+  <div id="input"></div>
+  输出：
+  <div id="output"></div>
+</body>
+<script>
+  const inputDom = document.getElementById("input");
+  const outputDom = document.getElementById("output");
+
+  let input = [4, 3, 5, 1, 2];
+  inputDom.innerHTML = JSON.stringify(input);
+
+  // 算法部分代码
+  function quickSort(arr) {
+    const n = arr.length;
+
+    // 取基准尽可能找个中间值，这里我从首尾和中间三个数中取中位数
+    const mid = Math.floor(n / 2);
+
+    let baseIndex;
+
+    if (arr[n - 1] > arr[mid] && arr[mid] > arr[0] || arr[0] > arr[mid] && arr[mid] > arr[n - 1]) {
+      baseIndex = mid;
+    } else if (arr[mid] > arr[n - 1] && arr[n - 1] > arr[0] || arr[0] > arr[n - 1] && arr[n - 1] > arr[mid]) {
+      baseIndex = n - 1;
+    } else {
+      baseIndex = 0;
+    }
+
+    let left = [];
+    let right = [];
+    for (let i = 0; i < n; i++) {
+      if (arr[i] < arr[baseIndex]) {
+        left.push(arr[i]);
+      } else {
+        right.push(arr[i]);
+      }
+    }
+
+    return [...bubbleSort(left), ...bubbleSort(right)];
+  }
+
+  function bubbleSort(arr) {
+    const n = arr.length;
+
+    for (let i = 0; i < n; i++) {
+      for (let j = 0; j < n - i; j++) {
+        if (arr[j] > arr[j + 1]) {
+          [arr[j + 1], arr[j]] = [arr[j], arr[j + 1]];
+        }
+      }
+    }
+
+    return arr;
+  }
+
+  outputDom.innerHTML = JSON.stringify(quickSort(input));
+
+</script>
+
+</html>
