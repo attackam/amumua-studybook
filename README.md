@@ -17,5 +17,11 @@
     - 插入排序  [🔗 地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/sorting-algorithm/insert-sort.html)
     - 希尔排序  [🔗 地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/sorting-algorithm/shell-sort.html)
     - 快速排序  [🔗 地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/sorting-algorithm/quick-sort.html)
+  - 2021.11.04 题库更新，上传新题目的答案
+    - 有效的括号  [🔗 地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/stack/match-bracket.js)
+    - 合并两个有序的列表  [🔗 地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/linked-list/merge-two-list.js)
+    - 二叉树先序遍历  [🔗 地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/binary-tree/preorder.js)
+    - 计数排序  [🔗 地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/sorting-algorithm/count-sort.html)
+    - 回文数  [🔗 地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/array/palindrome-number.js)
 
 ​         
