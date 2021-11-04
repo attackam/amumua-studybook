@@ -40,10 +40,7 @@ function generateList(array) {
 function generateArray(list) {
     let res = [];
 
-    let count = 0;
-    while (list && count < 7) {
-        // console.log(list.next.val, '### ???');
-        count++;
+    while (list) {
         res.push(list.val);
         list = list.next;
     }
