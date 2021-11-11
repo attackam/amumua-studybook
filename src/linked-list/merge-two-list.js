@@ -23,18 +23,20 @@ function ListNode(val) {
 }
 
 function generateList(array) {
-    let fakeHead = new ListNode(0);
-    let current = fakeHead;
+    // 非空判断
+    if (!array || !array.length) {
+        return null;
+    }
 
-    for (let index = 0; index < array.length; index++) {
-        current.next = {
-            val: array[index],
-            next: null
-        };
+    let node = new ListNode(array[0]);
+    let current = node;
+
+    for (let index = 1; index < array.length; index++) {
+        current.next = new ListNode(array[index]);
         current = current.next;
     }
 
-    return fakeHead.next;
+    return node;
 }
 
 function generateArray(list) {
