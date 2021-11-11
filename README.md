@@ -23,5 +23,16 @@
     - 二叉树先序遍历  [🔗 地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/binary-tree/preorder.js)
     - 计数排序  [🔗 地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/sorting-algorithm/count-sort.html)
     - 回文数  [🔗 地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/array/palindrome-number.js)
+  - 2021.11.10 题库更新，上传新题目的答案
+    - 两数平方和：https://leetcode-cn.com/problems/sum-of-square-numbers/description/
+       - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/hash/judge-square-sum.js)
+    - 二路归并排序：https://leetcode-cn.com/problems/sort-an-array/
+      - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/array/sort-array.js)
+     - 二分查找：https://leetcode-cn.com/problems/binary-search
+        - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/binary-search/search.js)
+     - 哈希_两数之和：https://leetcode-cn.com/problems/two-sum/
+        - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/hash/two-sum.js)
+     - 最长递增子序列：https://leetcode-cn.com/problems/longest-increasing-subsequence
+        - [🔗 动态规划答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/dp/max-sub-list.js)
+        - [🔗 贪心答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/binary-search/max-sub-list.js)
 
-​         
