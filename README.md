@@ -20,6 +20,7 @@
     - 快速排序  [🔗 地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/sorting-algorithm/quick-sort.html)
     
   - 2021.11.04 题库更新，上传新题目的答案
+    
     - 有效的括号  [🔗 地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/stack/match-bracket.js)
     - 合并两个有序的列表  [🔗 地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/linked-list/merge-two-list.js)
     - 二叉树先序遍历  [🔗 地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/binary-tree/preorder.js)
@@ -45,23 +46,28 @@
     - 桶排序：https://leetcode-cn.com/problems/top-k-frequent-elements/description/
   
       - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/array/k-frequent.js)
-  
+      - [🔗 掘金](https://juejin.cn/post/7030323873417527304)
+    
     - 快乐数：https://leetcode-cn.com/problems/happy-number/
-  
+    
       - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/hash/happy-number.js)
+      - [🔗 掘金](https://juejin.cn/post/7030316173581352968)
   
      - 两节点的最长路径：https://leetcode.com/problems/diameter-of-binary-tree/description/
   
        - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/binary-tree/diameter.js)
-  
+       - [🔗 掘金](https://juejin.cn/post/7030320704478248997)
+    
      - 两个字符串包含的字符是否完全相同：https://leetcode-cn.com/problems/valid-anagram/description/
-  
+    
        - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/hash/anagram.js)
+       - [🔗 掘金](https://juejin.cn/post/7030344981877358629)
   
      - 计算一组字符集合可以组成的回文字符串的最大长度：https://leetcode-cn.com/problems/longest-palindrome/description/
-  
+    
        - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/hash/longest-palindrome.js)
-  
+       - [🔗 掘金](https://juejin.cn/post/7030348587384963102)
+       
        
        
        

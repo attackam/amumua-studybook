@@ -16,6 +16,7 @@
   let total = maxValue - minValue + 1;
   let arr = new Array(total).fill(0);
 
+  // 记录每个元素出现的次数
   for (let i = 0; i < n; i++) {
       arr[nums[i] - minValue] += 1;
   }
@@ -30,6 +31,7 @@
   return result;
 };
 
+// 取出数组中的最大值
 var findMaxValue = function(nums) {
   const n = nums.length;
   let maxValue = nums[0], maxIndex = 0;
@@ -41,6 +43,7 @@ var findMaxValue = function(nums) {
       }
   }
 
+  // 取出了当前节点的最大值后不要直接删除节点，不然会影响下一轮
   nums[maxIndex] = 0;
   return maxIndex;
 };
