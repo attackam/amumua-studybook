@@ -76,24 +76,34 @@
 
     - 从尾到头打印链表 https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof 
   
+      - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/linked-list/reverse-print.js)
       - [🔗 掘金](https://juejin.cn/post/7030409901063012365)
   
     - 返回倒数第 k 个节点 https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/ 
-
+  
+      - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/linked-list/kth-to-last.js)
       - [🔗 掘金](https://juejin.cn/post/7030412544602816519)
-
+  
     - 环形链表 https://leetcode-cn.com/problems/linked-list-cycle/
   
+      - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/linked-list/has-cycle.js)
       - [🔗 掘金](https://juejin.cn/post/7030416378863550478)
   
     - K 个一组翻转链表 https://leetcode-cn.com/problems/reverse-nodes-in-k-group
+  
+      - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/linked-list/reverse-k-group.js)
+      - [🔗 掘金](https://juejin.cn/post/7030696313264013349)
 
     - 只出现一次的数字 https://leetcode-cn.com/problems/WGki4K
+
+      - [🔗 哈希答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/hash/single-number.js)
+      - [🔗 位运算答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/bitwise/single-number.js)
+      - [🔗 掘金](https://juejin.cn/post/7030638445915553822)
 
       
 
   - 第4套算法题代码及解析
-
+  
     - 平衡二叉树 https://leetcode-cn.com/problems/balanced-binary-tree
     
     - 二叉树的深度 https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof
