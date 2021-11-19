@@ -13,25 +13,23 @@
   - 今日更新第九套：
 
     - 链表中倒数第k个节点：https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
+      - [🔗 掘金](https://juejin.cn/post/7032201682939461669)
     - 复制带随机指针的链表：https://leetcode-cn.com/problems/copy-list-with-random-pointer/
-      - [🔗 掘金](https://juejin.cn/post/7031913888866107428)
-  
+    - [🔗 掘金](https://juejin.cn/post/7031913888866107428)
     - 交换链表中的节点：https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list/
       - [🔗 掘金](https://juejin.cn/post/7031544177238212615)
-  
-    - 两两交换链表中的节点：https://leetcode-cn.com/problems/swap-nodes-in-pairs/
+  - 两两交换链表中的节点：https://leetcode-cn.com/problems/swap-nodes-in-pairs/
       - [🔗 掘金](https://juejin.cn/post/7031541975631265828)
-
     - 合并 k 个升序链表 ：https://leetcode-cn.com/problems/merge-k-sorted-lists/
 
   - 第8套算法题：
-  
+
     - 最长公共子序列：https://leetcode-cn.com/problems/qJnOS7/
       - [🔗 掘金](https://juejin.cn/post/7031165042712117261)
   
     - 买卖股票的最佳时机：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock 
       - [🔗 掘金](https://juejin.cn/post/7031536627222577182)
-
+  
     - 使用最小花费爬楼梯：https://leetcode-cn.com/problems/min-cost-climbing-stairs/ 
       - [🔗 掘金](https://juejin.cn/post/7031150766358429709)
   
@@ -43,24 +41,24 @@
   
       - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/array/k-frequent.js)
       - [🔗 掘金](https://juejin.cn/post/7030323873417527304)
-
-    - 快乐数：https://leetcode-cn.com/problems/happy-number/
   
+    - 快乐数：https://leetcode-cn.com/problems/happy-number/
+
       - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/hash/happy-number.js)
       - [🔗 掘金](https://juejin.cn/post/7030316173581352968)
-
-     - 两节点的最长路径：https://leetcode.com/problems/diameter-of-binary-tree/description/
   
+     - 两节点的最长路径：https://leetcode.com/problems/diameter-of-binary-tree/description/
+
        - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/binary-tree/diameter.js)
        - [🔗 掘金](https://juejin.cn/post/7030320704478248997)
-
-     - 两个字符串包含的字符是否完全相同：https://leetcode-cn.com/problems/valid-anagram/description/
   
+     - 两个字符串包含的字符是否完全相同：https://leetcode-cn.com/problems/valid-anagram/description/
+
        - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/hash/anagram.js)
        - [🔗 掘金](https://juejin.cn/post/7030344981877358629)
-
-     - 计算一组字符集合可以组成的回文字符串的最大长度：https://leetcode-cn.com/problems/longest-palindrome/description/
   
+     - 计算一组字符集合可以组成的回文字符串的最大长度：https://leetcode-cn.com/problems/longest-palindrome/description/
+
        - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/hash/longest-palindrome.js)
        
        - [🔗 掘金](https://juejin.cn/post/7030348587384963102)
@@ -73,9 +71,9 @@
   
       - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/hash/judge-square-sum.js)
       - [🔗 掘金](https://juejin.cn/post/7030387626959962126)
-
-    - 二路归并排序：https://leetcode-cn.com/problems/sort-an-array/
   
+    - 二路归并排序：https://leetcode-cn.com/problems/sort-an-array/
+
       - [🔗 答案地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/array/sort-array.js)
       - [🔗 掘金](https://juejin.cn/post/7030399648934133773)
   
