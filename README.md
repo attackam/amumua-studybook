@@ -112,7 +112,7 @@
     - 5、 二叉树的锯齿形层序遍历： https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal
       - [🔗 掘金](https://juejin.cn/post/7041184178058035208)
   
-  - 第十八套：
+  - 第18套：
   
     - 1、剑指 Offer：二叉搜索树的第k大节点 https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof  
       - [🔗 掘金](https://juejin.cn/post/7040825604442161159)
@@ -129,7 +129,7 @@
     - 5、二叉树的前序遍历 https://leetcode-cn.com/problems/binary-tree-preorder-traversal
       - [🔗 掘金](https://juejin.cn/post/7040806192246947876)
   
-  - 第十七套算法题，刷就完事！
+  - 第17套算法题，刷就完事！
   
     - 1、Offer 10： 斐波那契数列 https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof
       - [🔗 掘金](https://juejin.cn/post/7039191980806504479)
@@ -146,7 +146,7 @@
     - 5、 完全二叉树的节点个数 https://leetcode-cn.com/problems/count-complete-tree-nodes
       - [🔗 掘金](https://juejin.cn/post/7039360087546134541)
   
-  - 第十六套题强势出场：
+  - 第16套题强势出场：
   
     - 1、面试题 ：环路检测 https://leetcode-cn.com/problems/linked-list-cycle-lcci
     - 2、设计链表 https://leetcode-cn.com/problems/design-linked-list
@@ -161,7 +161,7 @@
     - 5、面试题：分割链表 https://leetcode-cn.com/problems/partition-list-lcci
       - [🔗 掘金](https://juejin.cn/post/7038570693692555294)
   
-  - 第十五套：
+  - 第15套：
   
     - 1、剑指 Offer ！复杂链表的复制        https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof
     - 2、 删除中间节点        https://leetcode-cn.com/problems/delete-middle-node-lcci
@@ -176,7 +176,7 @@
     - 5、.移除无效的括号        https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses
       - [🔗 掘金](https://juejin.cn/post/7037334538556538917)
   
-  - 第十四套：
+  - 第14套：
   
     - 1、化栈为队 https://leetcode-cn.com/problems/implement-queue-using-stacks-lcci 
       - [🔗 掘金](https://juejin.cn/post/7037090707680526366)
@@ -193,7 +193,7 @@
     - 5、除最外层的括号 https://leetcode-cn.com/problems/remove-outermost-parentheses
       - [🔗 掘金](https://juejin.cn/post/7036928641229553701)
   
-  - 第十三套：
+  - 第13套：
   
     - 1、面试题 第 k 个数        https://leetcode-cn.com/problems/get-kth-magic-number-lcci
       - [🔗 掘金](https://juejin.cn/post/7036396833433714724)
@@ -253,7 +253,7 @@
   
       - [🔗 掘金](https://juejin.cn/post/7034499373400752159)
   
-    - 第10套算法题：
+  - 第10套算法题：
   
     - 二叉树的后序遍历 https://leetcode-cn.com/problems/binary-tree-postorder-traversal 
   
@@ -273,7 +273,7 @@
   
     - 表现良好的最长时间段 https://leetcode-cn.com/problems/longest-well-performing-interval
   
-    - 第9套算法题：
+  - 第9套算法题：
   
     - 链表中倒数第k个节点：https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
       - [🔗 掘金](https://juejin.cn/post/7032201682939461669)
@@ -289,7 +289,7 @@
   
     - 合并 k 个升序链表 ：https://leetcode-cn.com/problems/merge-k-sorted-lists/
   
-    - 第8套算法题：
+  - 第8套算法题：
   
     - 最长公共子序列：https://leetcode-cn.com/problems/qJnOS7/
       - [🔗 掘金](https://juejin.cn/post/7031165042712117261)
@@ -302,7 +302,7 @@
   
     - 回文子字符串个数：https://leetcode-cn.com/problems/palindromic-substrings/description/
   
-    - 第7套算法题代码及解析
+  - 第7套算法题代码及解析
   
     - 桶排序：https://leetcode-cn.com/problems/top-k-frequent-elements/description/
   
@@ -332,7 +332,7 @@
   
          
   
-    - 第6套算法题代码及解析
+  - 第6套算法题代码及解析
   
     - 两数平方和：https://leetcode-cn.com/problems/sum-of-square-numbers/description/
   
@@ -364,7 +364,7 @@
   
          
   
-    - 第5套算法题代码及解析
+  - 第5套算法题代码及解析
   
     - 从尾到头打印链表 https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof 
   
@@ -394,7 +394,7 @@
   
       
   
-    - 第4套算法题代码及解析
+  - 第4套算法题代码及解析
   
     - 平衡二叉树 https://leetcode-cn.com/problems/balanced-binary-tree
   
@@ -418,7 +418,7 @@
   
       
   
-    - 第3套算法题代码及解析
+  - 第3套算法题代码及解析
   
     - 反转链表 https://leetcode-cn.com/problems/UHnkqh
       - [🔗 掘金](https://juejin.cn/post/7027846329627836424)
@@ -435,7 +435,7 @@
     - 翻转二叉树 https://leetcode-cn.com/problems/invert-binary-tree
       - [🔗 掘金](https://juejin.cn/post/7027857712310386724)
   
-    - 第2套算法题代码及解析
+  - 第2套算法题代码及解析
   
     - 有效的括号  
   
@@ -463,7 +463,7 @@
   
       
   
-    - 第1套算法题代码及解析
+  - 第1套算法题代码及解析
   
     - 冒泡排序  [🔗 地址](https://github.com/linyuhong97/amumua-studybook/blob/main/src/sorting-algorithm/bubble-sort.html)
   
@@ -477,8 +477,8 @@
   
     - 五个算法掘金总结文章  [🔗 地址](https://juejin.cn/post/7024497086347509791)
   
-      
+       
   
-      
+       
   
 
